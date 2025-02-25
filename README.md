@@ -9,7 +9,7 @@ This project provides a chat interface that lets you ask questions about the con
 ## Directory Structure
 
 
-veershah0083-rag/
+aagamshah-rag/
 ├── app.py
 └── embeddings_cache.pkl
 
