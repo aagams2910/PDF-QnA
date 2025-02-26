@@ -9,7 +9,7 @@ import pickle
 from pathlib import Path
 
 # Configuration
-mistral_api_key = "6mEENhDapV7fw5uVvvUvenytRVJ23ghV"  # Replace with your actual API key
+mistral_api_key = ""  # Replace with your actual API key
 knowledge_base_dir = "knowledge_base"  # Directory to store PDFs
 embeddings_cache_file = "embeddings_cache.pkl"  # File to store embeddings
 MODEL_NAME = "open-mistral-7b"  # Model to use for chat
